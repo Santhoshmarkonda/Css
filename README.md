@@ -40,7 +40,7 @@ This repository hosts **HTML and CSS practice files**, created during my learnin
 Notes
 This collection is strictly for learning and experimentation. They’re not standalone projects but serve as foundational exercises for mastering web layouts and styling.
 
-Author
+Author ->
 Santhosh Kumar Markonda
 
 🔗 https://github.com/Santhoshmarkonda | https://www.linkedin.com/in/santhosh-kumar-markonda/
