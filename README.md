@@ -42,5 +42,5 @@ This collection is strictly for learning and experimentation. They’re not stan
 
 Author
 Santhosh Kumar Markonda
-Aspiring Java Developer turned Web Styling Enthusiast
+
 🔗 https://github.com/Santhoshmarkonda | https://www.linkedin.com/in/santhosh-kumar-markonda/
